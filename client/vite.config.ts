@@ -14,7 +14,7 @@ export default defineConfig({
         name: 'SheetDB PWA',
         short_name: 'SDB PWA',
         description: 'A Progressive Web App for SheetDB Client',
-        theme_color: '#ffffff',
+        theme_color: '#000000',
         icons: [
           {
             src: 'icons/icon-192x192.png',
